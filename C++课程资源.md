@@ -10,11 +10,17 @@
 
   **【零声】**[**golang/云原生/Docker/DevOps/K8S/持续集成/分布式/etcd/ipfs**](https://ke.qq.com/course/3384068)**`推荐`**** **
 
-  **【零声】**[**大学生春招秋招 Linux C/C++开发就业课程**](https://ke.qq.com/course/443231)**（x）****` 就业`**** ****`爆`**
+  **【零声】**[**大学生春招秋招 Linux C/C++开发就业课程**](https://ke.qq.com/course/443231)**` 就业`**** ****`爆`**
 
-  **【零声】**[**C/C++企业级项目实战班(浏览器/即时通讯/网盘/安全卫士/播放器)**](https://ke.qq.com/course/3025736#term_id=103141642)** ****（x）****`爆`****  ****`项目`**
+  **【零声】**[**C/C++企业级项目实战班(浏览器/即时通讯/网盘/安全卫士/播放器)**](https://ke.qq.com/course/3025736#term_id=103141642)** ****`爆`****  ****`项目`**
 
-  **【零声】**[**Qt开发必备技术栈（Qt5/C语言/c++/数据库/OpenCV/Quick/Qt实战）**](https://ke.qq.com/course/5820590#term_id=106031247)**(x)** **`爆`**
+  **【零声】**[**Qt开发必备技术栈（Qt5/C语言/c++/数据库/OpenCV/Quick/Qt实战）**](https://ke.qq.com/course/5820590#term_id=106031247)**`爆`**
+
+  **【零声】**[**C/C++/MySQL/Redis/操作系统/八股文/Leetcode/剑指Offer面试攻略**](https://ke.qq.com/course/5478818#term_id=105664682)
+
+  **【零声】**[**企业级go项目实战课程-从0带你实现ChatGPT项目**](https://ke.qq.com/course/6031074#term_id=106259640)
+
+  **【零声】**[**手把手实现tcp/ip用户态协议栈 （含posix API实现**](https://ke.qq.com/course/6032210#term_id=106261530)**）**
 
 **多游课堂**
 
@@ -29,6 +35,8 @@
   [**C语⾔/C++零基础到⼤神全栈课程(逆向/游戏开发/架构/反外挂)2020**](https://ke.qq.com/course/450953)**`推荐`**** ****`爆`**
 
   [**C语⾔/C++零基础到⼤神全栈课程(逆向/游戏开发/架构/反外挂)2021**](https://ke.qq.com/course/450953)**(x)****`推荐`**** ****`爆`**
+
+  **零基础直达C++开发工程师**（暂无官链）
 
 **奇牛学院**
 
@@ -178,18 +186,40 @@
 
   **1**[**.**](http://boolan.com/workshop/10026)[**李建忠.现代C++系统研发骨干训练营**](http://boolan.com/workshop/10026)**`专家授课`**** ****`2022`**** ****`口碑`**
 
+  **2.**[**C++性能优化高端培训**](http://boolan.com/workshop/10022)**`专家授课`**** ****`2023`**** ****`口碑`**
+
 **其他**
 
   **【博学⾕】**[**【年度钻⽯会员】C/C++**](https://www.boxuegu.com/class/outline-1335.html)**`入门到进阶`**
 
   **【⼩码哥】**[**30⼩时快速精通C++和外挂实战**](https://ke.qq.com/course/336509)
 
-  [**X86汇编语言：实模式到保护模式**](https://study.163.com/course/introduction/1209670804.htm?inLoc=ss_sslx_x86)
+  【**鼠侠讲堂**[**】X86汇编语言：实模式到保护模式**](https://study.163.com/course/introduction/1209670804.htm?inLoc=ss_sslx_x86)
 
   **【福优学苑】**[**FFmpeg第一季：小白开窍+九阳神功**](https://edu.51cto.com/topic/4996.html)**`口碑`**** ****`爆`**** ****`2022`**
 
   **【福优学苑】**[**FFmpeg第二季：编解码专题**](https://edu.51cto.com/topic/5315.html)**`口碑`**** ****`爆`**** ****`2022`**
 
   **【福优学苑】**[**QML基础知识与高级特性及音乐播放器项目实战系列套餐**](https://edu.51cto.com/topic/5053.html)**`口碑`**** ****`爆`**** ****`2022`**
+
+  **【老九】C++进阶实战**（暂无官链，详情联系客服）
+
+  **【达内】2023新C++**（暂无官链，详情联系客服）
+
+  **【顿开】C++合集**（暂无官链，详情联系客服）
+
+  **【比特】C104就业**（暂无官链，详情联系客服）
+
+  **C++保薪就业班 （暂无官链，详情联系客服）**
+
+  吕鑫2023C++深圳校区就业班
+ [补天云-QT5 QSS QML 原理源码 界面美化 项目实战 视频课程](https://ke.qq.com/course/package/38904#)2023（完结）
+[达内新C++2023](https://www.tedu.cn/c/?TARENA_jtcrq-jt-BD-PC-PZ-zh-pp-1792079-000-000000000000_TARENA&bdpz-pc)（完结）
+王道C++长期班43期2022（完结）
+[大丙课堂C语言基础教程 - 全面掌握C编程基础](https://edu.subingwen.cn/p/t_pc/goods_pc_detail/goods_detail/p_64db7c18e4b03e4b54e641d7?product_id=p_64db7c18e4b03e4b54e641d7)（完结）
+[大丙课堂-设计模式 - 【C++ 版】](https://edu.subingwen.cn/p/t_pc/goods_pc_detail/goods_detail/p_63c02253e4b07b05582e3121?product_id=p_63c02253e4b07b05582e3121)（完结）
+[大丙课堂-高并发【Reactor】服务器 - C/C++ 版](https://edu.subingwen.cn/p/t_pc/goods_pc_detail/goods_detail/p_62fe5f67e4b00a4f3735ae62?product_id=p_62fe5f67e4b00a4f3735ae62) （完结）
+[大丙课堂-C++11 新特性详解【已完结, 共106集】](https://edu.subingwen.cn/p/t_pc/goods_pc_detail/goods_detail/p_61a8e0a5e4b00db3cebeae49?product_id=p_61a8e0a5e4b00db3cebeae49)
+[大丙课堂-欢乐斗地主游戏【项目】](https://edu.subingwen.cn/p/t_pc/goods_pc_detail/goods_detail/p_619f2ad6e4b09240f0e3f719?product_id=p_619f2ad6e4b09240f0e3f719)（完结）
   
 **需要学习这些课程的朋友联系V: 2732168745  或者tg: https://t.me/itLeo123
